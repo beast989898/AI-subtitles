@@ -44,11 +44,11 @@ python3 add_subtitles_to_video.py
 
 Input file:
 
-- your_video.mp4
+- `your_video.mp4`
 
 Output files:
 
-- your_video_subtitles.srt (raw subtitle file)
-- your_video_with_subtitles.mp4 (final video with embedded subtitles)
+- `your_video_subtitles.srt` (raw subtitle file)
+- `your_video_with_subtitles.mp4` (final video with embedded subtitles)
 
 Note: Uses the "large" Whisper model for best accuracy, which requires ~3GB disk space and ~10GB VRAM
