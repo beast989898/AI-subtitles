@@ -15,7 +15,7 @@ This script:
 ### Python dependencies
 
 ```bash
-pip install whisper
+pip install openai-whisper
 ```
 
 ### System dependencies (install ffmpeg)
